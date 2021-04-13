@@ -25,7 +25,7 @@
 | aweme_id | int | 视频的aweme_id |
 
 
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about)
+#### 返回示例请联系微信：ifuxing123
 
 
 
@@ -39,7 +39,7 @@
 | cursor | int | 翻页游标，根据结果返回的cursor传入作为下一页翻页参数，初始为0 |
 
 
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about)
+#### 返回示例请联系微信：ifuxing123
 
 
 ### 视频带货商品列表
@@ -51,6 +51,6 @@
 | aweme_id | string | 视频的aweme_id |
 
 
-#### 返回示例请联系：[TiToData](https://www.titodata.com/about)
+#### 返回示例请联系微信：ifuxing123
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Video-Hub.douyin-api-video)
